@@ -20,7 +20,12 @@
 
 ## ✨ Overview
 
-**404 : Home** is a highly interactive, visually stunning 3D web experience. By combining advanced WebGL rendering, custom shaders, and spatial audio, it creates an atmospheric and cinematic journey directly in your browser. 
+**404 : Home** is an interactive WebGL project by creative technologist **Sunil**, and it's actually a sequel to his earlier work called *Drift*. 
+
+### 📖 The Story
+The story goes: an astronaut was lost in space in *Drift*, drifting and longing to return home. Now in *404 : Home*, he's landed on a new planet — it looks like Earth (grass, sky, ground) but feels wrong and "false." The grass never ends. Cosmic beams fall from the sky. Flowers bloom and die in seconds. He made it somewhere... but it's not home.
+
+By combining advanced WebGL rendering, custom shaders, and spatial audio, it creates an atmospheric and cinematic journey directly in your browser to bring this narrative to life. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
